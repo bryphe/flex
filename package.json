@@ -38,9 +38,5 @@
     "@opam/js_of_ocaml-ppx": "*",
     "@opam/js_of_ocaml-lwt": "*",
     "ocaml": "~4.6.0"
-  },
-  "TODO": "Add back the jsoo targets and some scripts to run the benchmarks in various JS VMs.",
-  "scripts": {
-    "postinstall": "Welcome to Flex! You have installed Flex with npm, but Flex is a native Reason library. Use 'esy' to manage native Reason projects. See the README instructions - it's really easy."
   }
 }
